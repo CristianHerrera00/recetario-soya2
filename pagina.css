@@ -33,7 +33,7 @@ a {
 
 /* Imágenes de cada preparación (carpeta imagenes/) */
 .img-pan-de-soya {
-    background-image: url("imagenes/pan_soya.png"), linear-gradient(135deg, var(--amarillo), #f39c12);
+    background-image: url("/imagenes/pan_soya.png"), linear-gradient(135deg, var(--amarillo), #f39c12);
 }
 
 .img-mantecada-de-soya {
