@@ -148,7 +148,7 @@ a {
     margin-right: 40px;
     border-radius: 50%;
     border: 14px solid var(--amarillo);
-    background: url("portada.png") center / cover, var(--amarillo);
+    background: url("uniminuto.png") center / cover, var(--amarillo);
     box-shadow: 0 0 0 30px rgba(255, 206, 0, 0.25), 0 0 0 60px rgba(255, 206, 0, 0.1);
 }
 
